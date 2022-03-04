@@ -81,3 +81,5 @@ php artisan key:generate
 Acesse o projeto
 [http://localhost:8180](http://localhost:8180)
 # laravel9
+
+# Aprender é um desafio, desistir não é uma opção!
